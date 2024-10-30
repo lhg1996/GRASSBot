@@ -1,4 +1,4 @@
-# grass-bot Grass Bot Auto Mining (MULTI AKUN)
+# Bot Auto Mining (MULTI AKUN)
 
 
 ## Create Account Jika Belum Punya
