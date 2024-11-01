@@ -1,6 +1,5 @@
 # Bot Auto Mining (MULTI AKUN)
 
-
 ## Create Account Jika Belum Punya
 
 - Create Account : [Register Grass](https://t.co/C0gpK4ZEVC)
